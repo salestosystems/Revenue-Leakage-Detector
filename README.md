@@ -135,7 +135,7 @@ Update CRM   Gmail Alert   Google Sheets Log
 
 Revenue Leakage Detector
 
-(Add your uploaded workflow image here.)
+<img width="1242" height="569" alt="Revenue Leakage Detector" src="https://github.com/user-attachments/assets/06c8bfbf-bd61-429e-b1d3-8163428778cf" />
 
 ---
 
