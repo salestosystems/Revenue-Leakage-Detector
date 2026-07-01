@@ -1,0 +1,204 @@
+Chapter 5 — Activity Leakage
+
+Why Good Deals Still Get Lost
+
+Sales teams don't usually lose deals because they aren't working.
+
+They lose deals because critical activities don't happen at the right time.
+
+A follow-up gets delayed.
+
+A meeting note never reaches the CRM.
+
+A task is forgotten.
+
+A customer email goes unanswered.
+
+Individually, these feel like small operational misses.
+
+Collectively, they create one of the biggest sources of revenue leakage.
+
+This is Activity Leakage.
+
+What is Activity Leakage?
+
+Activity Leakage occurs when sales execution becomes inconsistent.
+
+The opportunity still exists.
+
+The customer may still be interested.
+
+But the activities required to move the deal forward either never happen or are never recorded.
+
+Opportunity Created
+        │
+        ▼
+Discovery Call
+        │
+        ▼
+───────────────
+No Follow-up
+No CRM Update
+No Next Task
+No Manager Visibility
+───────────────
+        │
+        ▼
+Momentum Slows
+        │
+        ▼
+Revenue Leaks
+
+Revenue doesn't disappear overnight.
+
+It disappears one missed activity at a time.
+
+Why Activity Leakage Happens
+1. Follow-ups Depend on Memory
+
+Most follow-ups rely on individual discipline.
+
+Sales reps juggle multiple opportunities, meetings, emails, and internal work every day.
+
+Without a structured system, important follow-ups naturally get delayed.
+
+2. Poor CRM Hygiene
+
+CRM should represent reality.
+
+Instead, it often becomes outdated.
+
+Common examples include:
+
+Meeting notes never added
+Deal stages not updated
+Close dates left unchanged
+Next steps missing
+Contact information incomplete
+
+Poor data creates poor decisions.
+
+3. No Clear Accountability
+
+Sometimes no one knows:
+
+Who owns the opportunity?
+When should the next activity happen?
+Is the customer waiting for us?
+
+Without ownership, inactivity becomes invisible.
+
+4. Managers See Reports, Not Execution
+
+Pipeline reviews usually focus on:
+
+Revenue
+Forecast
+Deal stage
+
+But they rarely answer:
+
+Were follow-ups completed?
+Are discovery notes complete?
+Has every opportunity moved this week?
+
+Revenue outcomes are measured.
+
+Sales activities are often assumed.
+
+Symptoms of Activity Leakage
+
+You may have activity leakage if you notice:
+
+Opportunities with no recent activity
+Missing follow-up tasks
+CRM updated only before review meetings
+Sales reps managing deals from memory
+Managers asking for status updates instead of checking the CRM
+Forecasts based on outdated information
+
+These are execution problems—not pipeline problems.
+
+Traditional CRM Limitation
+
+A CRM records activities.
+
+It doesn't ensure they happen.
+
+A completed task is valuable.
+
+A forgotten task usually leaves no visible trace.
+
+That's why activity leakage often goes unnoticed until deals start slowing down.
+
+How AI Can Reduce Activity Leakage
+
+Instead of relying on manual reminders, AI can continuously monitor sales execution.
+
+Examples include:
+
+Detect opportunities with no activity
+Identify overdue follow-ups
+Flag missing meeting notes
+Verify CRM hygiene
+Recommend the next best action
+Alert managers when activity SLAs are missed
+
+The objective isn't to monitor salespeople.
+
+It's to ensure important customer interactions never fall through the cracks.
+
+Activity Leakage Detection Workflow (Concept)
+Daily Activity Audit
+        │
+        ▼
+Retrieve Open Opportunities
+        │
+        ▼
+Check Last Activity Date
+        │
+        ▼
+Verify Follow-up Tasks
+        │
+        ▼
+Review CRM Completeness
+        │
+        ▼
+Calculate Activity Health Score
+        │
+        ▼
+Recommend Next Action
+        │
+        ▼
+Update CRM + Notify Owner
+Real-World Example
+
+Two account executives each manage 30 opportunities.
+
+Both report similar pipeline values.
+
+The difference?
+
+Rep A
+
+Updates CRM after every interaction
+Schedules the next step before ending a meeting
+Never lets a follow-up become overdue
+
+Rep B
+
+Keeps notes in a notebook
+Relies on memory
+Updates CRM at the end of the week
+
+On paper, both pipelines look similar.
+
+In reality, only one pipeline reflects what's actually happening.
+
+That's the cost of activity leakage.
+
+Revenue Systems Insight
+
+Sales success isn't just about doing more activities.
+
+It's about making sure the right activities happen consistently—and are visible to everyone who depends on them.
