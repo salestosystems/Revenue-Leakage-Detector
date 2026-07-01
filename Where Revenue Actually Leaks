@@ -3,34 +3,22 @@ Chapter 1 — Where Revenue Actually Leaks
 Introduction
 
 When a company misses its revenue target, the first instinct is usually to find one major reason.
+- A lost enterprise account.
+- A weak quarter from Sales.
+- Reduced marketing spend.
 
-A lost enterprise account.
-
-A weak quarter from Sales.
-
-Reduced marketing spend.
-
-But after studying sales operations and building my own Revenue Leakage Detector, I realized something different.
-
-Revenue rarely disappears due to a single catastrophic failure.
-
-It leaks through hundreds of small operational gaps that quietly compound over time.
+But after studying sales operations and building my own Revenue Leakage Detector, I realised something different.
+Revenue rarely disappears due to a single catastrophic failure. It leaks through hundreds of small operational gaps that quietly compound over time.
 
 This chapter is about understanding those gaps before trying to automate them.
 
 The Revenue Bucket
+- Think of your revenue engine as a bucket.
+- Marketing pours in leads.
+- Sales works on opportunities.
+- Customer Success drives renewals.
 
-Think of your revenue engine as a bucket.
-
-Marketing pours in leads.
-
-Sales works opportunities.
-
-Customer Success drives renewals.
-
-Everyone is doing their job.
-
-Yet the bucket never fills.
+Everyone is doing their job. Yet the bucket never fills.
 
 Why?
 
@@ -71,20 +59,13 @@ Rarely:
 ❌ Losing one ₹50 lakh deal.
 
 More commonly:
-
 ✓ A qualified lead waits four days before first contact.
-
 ✓ A deal sits in Discovery for 23 days.
-
 ✓ Nobody notices product usage dropping.
-
 ✓ CRM fields remain outdated.
-
 ✓ Managers discover problems only during forecast meetings.
 
-Individually these don't seem expensive.
-
-Collectively they become millions in lost revenue.
+Individually, these don't seem expensive. Collectively, they become millions in lost revenue.
 
 Why Traditional Dashboards Don't Solve This
 
@@ -101,6 +82,7 @@ Traditional reporting is retrospective.
 Revenue Operations should be predictive.
 
 The Eight Revenue Leakage Zones
+
 | Zone                  | What Actually Breaks                                              |
 | --------------------- | ----------------------------------------------------------------- |
 | Lead Leakage          | Qualified leads never receive timely engagement.                  |
@@ -125,7 +107,7 @@ Every chapter in this repository explores one leakage zone, explains why it happ
 
 What's Next
 
-In the next chapter we'll explore:
+In the next chapter, we'll explore:
 
 Lead Leakage
 
